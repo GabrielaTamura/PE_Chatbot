@@ -1,0 +1,50 @@
+ID;Pergunta;A;Nó A;B;Nó B
+1;A avaliação da casa é menor do que 8.5? ;SIM;2;NAO;31
+2;A média da área interna das 15 casas mais próximas é menor do que 2622.5? ;SIM;3;NAO;26
+3;O preço por média da área total do terreno das 15 casas mais próximas é menor do que 88.62? ;SIM;4;NAO;11
+4;O preço por área total do terreno (em square foots) onde se localiza a casa é menor do que 14.415? ;SIM;5;NAO;6
+5;NO FOLHA;A casa está cara.;;;
+6;O preço por área localizada acima do chão da casa (em square foots) é menor do que 597.92? ;SIM;7;NAO;8
+7;NO FOLHA;A casa está barata.;;;
+8;A área localizada acima do chão da casa (em square foots) é menor do que 1135.0? ;SIM;9;NAO;10
+9;NO FOLHA;A casa está barata.;;;
+10;NO FOLHA;A casa está cara.;;;
+11;A área interna da casa (em square foots) é menor do que 0.5? ;SIM;12;NAO;23
+12;A área do porão da casa (em square foots) é menor do que 310.0? ;SIM;13;NAO;22
+13;A média da área total do terreno das 15 casas mais próximas é menor do que 7767.0? ;SIM;14;NAO;19
+14;O preço por média da área interna das 15 casas mais próximas é menor do que 540.305? ;SIM;15;NAO;16
+15;NO FOLHA;A casa está barata.;;;
+16;O preço por área total do terreno (em square foots) onde se localiza a casa é menor do que 119.61? ;SIM;17;NAO;18
+17;NO FOLHA;A casa está barata.;;;
+18;NO FOLHA;A casa está cara.;;;
+19;O preço por média da área interna das 15 casas mais próximas é menor do que 493.64? ;SIM;20;NAO;21
+20;NO FOLHA;A casa está cara.;;;
+21;NO FOLHA;A casa está barata.;;;
+22;NO FOLHA;A casa está cara.;;;
+23;O preço por área total do terreno (em square foots) onde se localiza a casa é menor do que 66.965? ;SIM;24;NAO;25
+24;NO FOLHA;A casa está barata.;;;
+25;NO FOLHA;A casa está cara.;;;
+26;O preço por média da área interna das 15 casas mais próximas é menor do que 222.04? ;SIM;27;NAO;28
+27;NO FOLHA;A casa está barata.;;;
+28;O ano de construção é menor do que 1939.5? ;SIM;29;NAO;30
+29;NO FOLHA;A casa está barata.;;;
+30;NO FOLHA;A casa está cara.;;;
+31;O preço por média da área interna das 15 casas mais próximas é menor do que 245.23? ;SIM;32;NAO;37
+32;A média da área interna das 15 casas mais próximas é menor do que 3185.0? ;SIM;33;NAO;34
+33;NO FOLHA;A casa está barata.;;;
+34;price/sqft_living <= 238.0? ;SIM;35;NAO;36
+35;NO FOLHA;A casa está barata.;;;
+36;NO FOLHA;A casa está cara.;;;
+37;O preço por área total do terreno (em square foots) onde se localiza a casa é menor do que 104.505? ;SIM;38;NAO;49
+38;A média da área interna das 15 casas mais próximas é menor do que 2615.0? ;SIM;39;NAO;46
+39;O preço por média da área interna das 15 casas mais próximas é menor do que 390.8? ;SIM;40;NAO;45
+40;O preço por área localizada acima do chão da casa (em square foots) é menor do que 435.83? ;SIM;41;NAO;44
+41;A área localizada acima do chão da casa (em square foots) é menor do que 3060.0? ;SIM;42;NAO;43
+42;NO FOLHA;A casa está barata.;;;
+43;NO FOLHA;A casa está cara.;;;
+44;NO FOLHA;A casa está cara.;;;
+45;NO FOLHA;A casa está cara.;;;
+46;O preço por área localizada acima do chão da casa (em square foots) é menor do que 239.485? ;SIM;47;NAO;48
+47;NO FOLHA;A casa está barata.;;;
+48;NO FOLHA;A casa está cara.;;;
+49;NO FOLHA;A casa está cara.;;;
